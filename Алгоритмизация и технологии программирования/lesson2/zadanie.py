@@ -30,3 +30,4 @@ def analyze_purchases(items, prices, discount_threshold=1000):
         "discount_applied": discount_applied,
         "final_total": final_total
     }
+    
